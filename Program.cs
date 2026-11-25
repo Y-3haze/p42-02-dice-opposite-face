@@ -6,7 +6,7 @@ class Program
     static int OppositeFace(int n)
     {
         // TODO: напишите решение здесь
-        return 0;
+        return 7-n;
     }
 
     static void Main()
@@ -28,3 +28,4 @@ class Program
         Console.WriteLine($"n = {n}: получено {result}, ожидалось {expected} - {status}");
     }
 }
+//Минас и Александр
